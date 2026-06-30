@@ -1,0 +1,5 @@
+{
+    "clients": 10,
+    "min_actions": 5,
+    "max_actions": 10
+}
