@@ -1,0 +1,63 @@
+# ===========================
+# Build Files
+# ===========================
+build/
+*/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+compile_commands.json
+Makefile
+
+# ===========================
+# Executables
+# ===========================
+*.exe
+*.out
+
+# ===========================
+# Object Files
+# ===========================
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# ===========================
+# Visual Studio Code
+# ===========================
+.vscode/
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+
+# ===========================
+# Logs
+# ===========================
+logs/
+*.log
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# ===========================
+# Generated Reports
+# ===========================
+load-tester/reports/*.csv
